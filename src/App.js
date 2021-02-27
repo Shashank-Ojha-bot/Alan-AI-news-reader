@@ -2,10 +2,11 @@ import alanBtn from '@alan-ai/alan-sdk-web';
 import React from "react";
 import NewsCards from "./components/NewsCards/NewsCards";
 //import classes from "*.module.css";
+import {alanKey} from './components/NewsCards/keys'
 import useStyles from './styles';
 import wordsToNumbers from 'words-to-numbers';
 
-const alanKey='e7036e70d538511078f4312951b61cb12e956eca572e1d8b807a3e2338fdd0dc/stage';
+
 
 const App =()=>{
     const [newsArticles,setNewsArticles]=React.useState([]);
