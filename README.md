@@ -10,3 +10,5 @@ Similarly a number of commands can be given to Alan to fetch the required result
 Not just that , This app also allows Alan to read the headlines if the user wants and could also open the Article( Say 'Open 5' to open Article number 5 on the page)
 
 And wait, you can also have a small talk with Alan if you wish😉
+
+*Link to the app is given in About section*
